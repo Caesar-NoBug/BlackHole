@@ -31,6 +31,7 @@ Um reprodutor de música incrível para todas as suas necessidades!
 
 ## Traduções
 
+- [Simplified Chinese : zh](/README-ZH.md)
 - [English :uk:](/README.md)
 - [Spanish :es:](/README.ES.md)
 - [Russian :ru:](/README.RU.md)

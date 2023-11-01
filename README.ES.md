@@ -31,6 +31,7 @@ Un increible reproductor de música basado en Flutter
 
 ## Traducciones
 
+- [Simplified Chinese : zh](/README-ZH.md)
 - [English :uk:](/README.md)
 - [Russian :ru:](/README.RU.md)
 - [Japanese :jp:](/README.JA.md)

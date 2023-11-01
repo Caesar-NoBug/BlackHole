@@ -2,91 +2,92 @@
 
 # BlackHole
 
-Tüm ihtiyaçlarınız için bir Açık Kaynaklı Müzik Çalar Uygulaması!
+一个满足你所有需求的开源音乐播放器！
 
 [![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/) ![Release](https://img.shields.io/github/v/release/Sangwan5688/BlackHole) ![Downloads](https://img.shields.io/github/downloads/Sangwan5688/BlackHole/total)
 [![Build](https://github.com/Sangwan5688/BlackHole/actions/workflows/flutter.yml/badge.svg)](https://github.com/Sangwan5688/BlackHole/actions/workflows/flutter.yml)
 [![Translation-Status](https://hosted.weblate.org/widgets/blackhole/-/translations/svg-badge.svg)](https://hosted.weblate.org/engage/blackhole/)
 
-### Depoyu :star:'lamayı unutmayın!
+### 不要忘记关注这个项目
 
 [![GitHub stars](https://img.shields.io/github/stars/Sangwan5688/BlackHole.svg?style=social&label=Star)](https://github.com//Sangwan5688/BlackHole) ![GitHub forks](https://img.shields.io/github/forks/Sangwan5688/BlackHole.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/Sangwan5688.svg?style=social&label=Follow)
 
-## İndir
+## 下载
 
 [<img src="get_website.png"
-     alt="Download from Website"
-     height="90">](https://sangwan5688.github.io/download/)
+alt="Download from Website"
+height="90">](https://sangwan5688.github.io/download/)
 [<img src="get_github.png"
-     alt="Download from GitHub"
-     height="90">](https://github.com/Sangwan5688/BlackHole/releases)
+alt="Download from GitHub"
+height="90">](https://github.com/Sangwan5688/BlackHole/releases)
 [<img src="get_telegram.png"
-     alt="Join Telegram Channel"
-     height="90">](https://t.me/blackhole_official)
+alt="Join Telegram Channel"
+height="90">](https://t.me/blackhole_official)
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="90">](https://f-droid.org/packages/com.shadow.blackhole/)
+alt="Get it on F-Droid"
+height="90">](https://f-droid.org/packages/com.shadow.blackhole/)
 [<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png"
-     alt="Get it on IzzyDroid"
-     height="90">](https://android.izzysoft.de/repo/apk/com.shadow.blackhole)
+alt="Get it on IzzyDroid"
+height="90">](https://android.izzysoft.de/repo/apk/com.shadow.blackhole)
 
-## Çeviriler
+## 翻译
 
-- [Simplified Chinese : zh](/README-ZH.md)
-- [Türkçe :tr:](/README.TR.md)
-- [İspanyolca :es:](/README.ES.md)
-- [Rusça :ru:](/README.RU.md)
-- [Fransızca :fr:](/README.FR.md)
-- [Portekizce :brazil:](/README.PT.md)
-- [Japonca :jp:](/README.JA.md)
-- [Belarusça :belarus:](/README.BE.md)
-- [Endonezya dili :indonesia:](/README.ID.md)
+- [Turkish :tr:](/README.TR.md)
+- [English :uk:](/README.md)
+- [Spanish :es:](/README.ES.md)
+- [Russian :ru:](/README.RU.md)
+- [French :fr:](/README.FR.md)
+- [Portuguese :brazil:](/README.PT.md)
+- [Japanese :jp:](/README.JA.md)
+- [Belarusian :belarus:](/README.BE.md)
+- [Indonesian :indonesia:](/README.ID.md)
 
-[Uygulamayı Weblate üzerinden çevirin!](https://hosted.weblate.org/projects/blackhole/translations/)
+[Weblate上的翻译应用程序](https://hosted.weblate.org/projects/blackhole/translations/)
 
-## Özellikler
+## 特性
 
-- Yüksek Yayın Kalitesi (320kbps AAC)
-- Şarkı, Albüm, Sanatçı ve Çalma Listesi Arama
-- Dile Özgü Tanıtılan Oynatma Listeleri
-- Trend Olan Şarkılar
-- Sanatçı ve Tür Radyoları
-- 15+ müzik dilini destekleyin
-- Yerel ve Küresel En İyi Spotify şarkıları
-- Favorilere Şarkı Ekle
-- Çalma listeleri desteği
-- Spotify ve YouTube'dan Çalma Listelerini İçe Aktarın
-- Oynatma Listelerini JSON Dosyası Olarak İçe/Dışa Aktar
-- Oynatma Listelerini Paylaşın
-- Uyku zamanlayıcısı
-- Şarkı Sözü Desteği
-- Kuyruk Yönetimi
-- Dinleme geçmişi kaydı
-- Karanlık mod / vurgu rengi
-- Özel Degradeler ve diğer Tema seçenekleri
-- Portre ve Manzara modunu destekler
-- Çevrimdışı oynamak için indirin (ID3 etiketleriyle 320kbps)
-- Çevrimiçi ve Çevrimdışı Şarkıları Çal
-- Etiket Düzenleme Desteği
-- Trend Olan Arama Sonuçları
-- YouTube Arama Desteği
-- Tanıtılan Youtube Oynatma Listeleri
-- Videoları ses olarak oynatın
-- Otomatik Şarkı Önerileri
-- Dahili Ekolayzır
-- Yedekleme ve Geri Yükleme
-- Otomatik Güncelleme Kontrolü
-- Önbellek desteği
-- Abonelik Yok
-- Reklamsız
+- 高品质音频流(320kbps AAC)
+- 歌曲、专辑、艺术家和播放列表的搜索功能
+- 根据语言推荐的播放列表
+- 流行歌曲
+- 按艺术家和流派分类的电台
+- 支持15种以上语言的音乐
+- 本地和全球热门歌曲
+- 将歌曲添加到喜欢
+- 支持播放列表
+- 从Spotify和YouTube导入播放列表
+- 将播放列表导入/导出为JSON文件
+- 分享播放列表
+- 睡眠定时器
+- 支持歌词
+- 队列管理
+- 播放历史记录
+- 暗黑模式/强调色
+- 自定义渐变和其他主题选项
+- 支持纵向和横向模式
+- 下载以离线播放(ID3格式，比特率为320kbps)
+- 在线和离线播放歌曲
+- 支持标签编辑
+- 搜索流行歌曲
+- 支持YouTube搜索
+- 推荐的Youtube播放列表
+- 将视频作为音频播放
+- 自动歌曲推荐
+- 内置均衡器
+- 备份与恢复
+- 自动检查更新
+- 支持缓存
+- 无需订阅
+- 无广告
 
-ve çok daha fazlasını keşfedin! :O)
+还有更多特性
+请您自己在查看 :)
 
-## Ekran Görüntüleri
+## 截图
 
 <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png?raw=true" width="32%">
 
-## Lisans
+## 许可证
 
 ```
 Copyright © 2021 Ankit Sangwan
@@ -113,46 +114,45 @@ how to obtain the original software, should clearly STATE ALL CHANGES made and s
 Use of this software under any "non-free" license is NOT permitted.
 ```
 
-[GNU General Public License](https://github.com/Sangwan5688/BlackHole/blob/main/LICENSE) ile daha fazlasına göz atın!
+详情请查看 [GNU 通用公共许可证](https://github.com/Sangwan5688/BlackHole/blob/main/LICENSE) 
 
-## Kaynaktan Derleme
+## 从源代码构建
 
-1. Flutter SDK kurulu değilse, lütfen resmi [Flutter](https://flutter.dev/) sitesini ziyaret edin.
-2. Ana bölümden en son kaynak kodunu alın.
+1. 如果你没有安装Flutter SDK, 请访问官网 [Flutter](https://flutter.dev/).
+2. 从主分支中拉取最新源代码
 
 ```
 git clone https://github.com/Sangwan5688/BlackHole.git
 ```
 
-3. Uygulamayı Android Studio veya VS Code ile çalıştırın. Veya komut satırı:
+3. 用Android Studio 或 VS Code 运行。 或者命令行:
 
 ```
 flutter pub get
 flutter run
 ```
 
-## Katkıda Bulunun
+## 贡献
 
-Katkılar kabul edilir. Lütfen katkıda bulunmadan önce [katkıda bulunma yönergelerimizi](https://github.com/Sangwan5688/BlackHole/blob/main/CONTRIBUTING.md) okuyun.
+欢迎参与贡献。 在为我们做贡献之前，请阅读我们的 [贡献者指南](https://github.com/Sangwan5688/BlackHole/blob/main/CONTRIBUTING.md) 。
 
-## Herhangi bir sorunla mı karşılaşıyorsunuz?
+## 面临一些问题？
 
-Karşılaşabileceğiniz bazı [yaygın sorunlara](https://github.com/Sangwan5688/BlackHole/wiki/Common-Issues) bir göz atın. Sorununuz orada değilse, bir Konu açmaktan çekinmeyin :)
+查看你可能遇到的问题 [常见问题](https://github.com/Sangwan5688/BlackHole/wiki/Common-Issues)。 如果您的问题不在其中，欢迎提出一个issue :)
 
-## Beta Sürümlerini test etmek ister misiniz? Yardıma mı ihtiyacınız var?
+## 想要试用测试版? 需要帮助??
 
-Herhangi bir sorunuz varsa veya bir konuda yardıma ihtiyacınız varsa [Telegram Kanalımıza](https://t.me/blackhole_official) veya [Telegram Grubumuza](https://t.me/joinchat/fHDC1AWnOhw0ZmI9) katılabilirsiniz. yanı sıra projenin beta güncellemelerini almak için.
-
-## Çalışmamı beğendin mi?
+如果您有任何问题, 或者需要得到帮助以及获取项目测试版的更新， 您可以加入我们的[Telegram 频道](https://t.me/blackhole_official) 或者 [Telegram 群](https://t.me/joinchat/fHDC1AWnOhw0ZmI9)。
+## 喜欢我的工作?
 
 <a href="https://www.buymeacoffee.com/ankitsangwan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-## Yenilikler Neler?
+## 新特性
 
-Tüm değişiklik günlüğünü okumak için [wiki page](https://github.com/Sangwan5688/BlackHole/wiki/Changelog) sayfasını ziyaret edin!
+要查看完整的变更日志，请访问[wiki 页面](https://github.com/Sangwan5688/BlackHole/wiki/Changelog)
 
 
-## Feragatname
+## 免责声明
 ```
 BlackHole does not own or have any affiliation with the songs and other content available through the app.
 All songs and other content are the property of their respective owners and are protected by copyright law.
@@ -162,8 +162,4 @@ is not responsible for any harm or damage to the respective owners or any other 
 of the songs and other content through the third-party plugins.
 By using the app, you agree to use the songs and other content only for personal, non-commercial purposes
 and in compliance with all applicable laws and regulations.
-```
-```
-Translated by: Eren İnce erenince@proton.me
-Eren İnce tarafından çevrilmiştir. erenince@proton.me
 ```

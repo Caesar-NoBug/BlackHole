@@ -31,6 +31,7 @@
 
 ## Переводы
 
+- [Simplified Chinese : zh](/README-ZH.md)
 - [English :uk:](/README.md)
 - [Spanish :es:](/README.ES.md)
 - [Japanese :jp:](/README.JA.md)

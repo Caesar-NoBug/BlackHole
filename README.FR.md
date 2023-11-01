@@ -31,6 +31,7 @@ Superbe Lecteur de Musique fait avec Flutter !
 
 ## Traductions
 
+- [Simplified Chinese : zh](/README-ZH.md)
 - [Espagnol :es:](/README.ES.md)
 - [Russe :ru:](/README.RU.md)
 - [Français :fr:](/README.FR.md)

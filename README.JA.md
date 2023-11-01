@@ -32,6 +32,7 @@
 
 ## 翻訳
 
+- [Simplified Chinese : zh](/README-ZH.md)
 - [Turkish :tr:](/README.TR.md)
 - [English :uk:](/README.md)
 - [Spanish :es:](/README.ES.md)
